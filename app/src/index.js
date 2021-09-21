@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App.jsx';
+import FormularioUsuario from './form2.jsx';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
     <>
-    <App />
+    <FormularioUsuario />
     </>,
   document.getElementById("root")
 );
